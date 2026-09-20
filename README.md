@@ -21,7 +21,7 @@ También incorpora funciones de validación de datos, manejo de fechas y días h
 
 ### CETE
 
-Cálculo del precio y rendimiento de instrumentos cupón cero.
+Cálculo del precio y rendimiento de instrumentos cupón cero
 
 ### M-BONO
 
